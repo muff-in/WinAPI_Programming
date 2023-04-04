@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Preview\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(516,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Read_and_Write_FIle.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\navne\Desktop\cpp\WinAPI_Programming\Read_and_Write_FIle\main.cpp(44,27): warning C4267: 'initializing': conversion from 'size_t' to 'DWORD', possible loss of data
+  Read_and_Write_FIle.vcxproj -> C:\Users\navne\Desktop\cpp\WinAPI_Programming\Read_and_Write_FIle\x64\Debug\Write_FIle.exe

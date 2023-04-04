@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\navne\Desktop\cpp\WinAPI_Programming\CreateSemaphore\main.cpp(19,36): warning C4229: anachronism used: modifiers on data are ignored
+C:\Users\navne\Desktop\cpp\WinAPI_Programming\CreateSemaphore\main.cpp(36,35): warning C4229: anachronism used: modifiers on data are ignored
+  CreateSemaphore.vcxproj -> C:\Users\navne\Desktop\cpp\WinAPI_Programming\CreateSemaphore\x64\Debug\CreateSemaphore.exe

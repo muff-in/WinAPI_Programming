@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33513.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CreateMutex", "CreateMutex.vcxproj", "{7053A3EB-6461-4714-BEEA-756C265892E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7053A3EB-6461-4714-BEEA-756C265892E4}.Debug|x64.ActiveCfg = Debug|x64
+		{7053A3EB-6461-4714-BEEA-756C265892E4}.Debug|x64.Build.0 = Debug|x64
+		{7053A3EB-6461-4714-BEEA-756C265892E4}.Debug|x86.ActiveCfg = Debug|Win32
+		{7053A3EB-6461-4714-BEEA-756C265892E4}.Debug|x86.Build.0 = Debug|Win32
+		{7053A3EB-6461-4714-BEEA-756C265892E4}.Release|x64.ActiveCfg = Release|x64
+		{7053A3EB-6461-4714-BEEA-756C265892E4}.Release|x64.Build.0 = Release|x64
+		{7053A3EB-6461-4714-BEEA-756C265892E4}.Release|x86.ActiveCfg = Release|Win32
+		{7053A3EB-6461-4714-BEEA-756C265892E4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8F1B019-DE04-4BF4-96CE-59DEA7061A50}
+	EndGlobalSection
+EndGlobal
